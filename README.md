@@ -1,7 +1,6 @@
 # Hi there, I'm Dong Yihang 👋
 
-I'm an undergraduate student at the **University of Electronic Science and Technology of China (UESTC)**.
-
+I'm currently a MSc student at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**. Previously, I was an undergraduate at the **University of Electronic Science and Technology of China (UESTC)**.
 
 ## 📫 How to reach me
-- Email: 2022190901025@std.uestc.edu.cn
+- Email: yihangdong04@gmail.com
